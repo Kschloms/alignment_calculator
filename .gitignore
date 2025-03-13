@@ -10,3 +10,4 @@ propagation_nostatic.c
 gmon.out
 *.profile
 test_propagation
+
